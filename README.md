@@ -1,5 +1,5 @@
 Hello.
-- I am a Senior Comp Sci Student From Thailand.
+- I am a Senior Comp Sci Student based in Thailand.
 - Software Engineer
 
 ### 🛠️ Tech Stack
